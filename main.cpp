@@ -1,5 +1,5 @@
 #include <iostream>
-
+#include "CPU.hpp"
 int main()
 {
 	
